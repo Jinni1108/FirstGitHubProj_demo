@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Eat {
 	public static void main(String[] args) {
-		
+		//啦啦啦
 		//进入系统的欢迎
 		System.out.println("欢迎使用吃货联盟系统");
 		
